@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pkb9239/pkb9239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=400&section=header&text=Welcome&fontSize=90&animation=twinkling)
 
-<div align=center>
+
 
 ## 🛠️ Tech Stack 🛠️
 ### 💡used as the main
