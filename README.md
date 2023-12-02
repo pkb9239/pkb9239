@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 💫 MY 💫 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://pkb9239.github.io/)   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.pkb9239@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:one.pkb8839@naver.com)
 
-### 😊 T o d a y 
+### 😊 T o d a y !
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkb9239&count_bg=%23C83D50&title_bg=%23827F78&icon=jenkins.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
