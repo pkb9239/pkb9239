@@ -20,14 +20,29 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ Tech Stack 🛠️
-### 💡used as the main
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript.js-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black) 
+#### My Primary Stack
+<img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=reactquery&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+<br />
 
+#### Experienced
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Zustand-e26429?style=flat&logo=zustand&logoColor=white">
+<img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Emotion-D26AC2?&style=flat&logo=emotion&logoColor=white">
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 
-### 💡used at least once
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)  ![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-## 💫 MY 💫 
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://pkb9239.github.io/)   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.pkb9239@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:one.pkb8839@naver.com)
+## 🧑🏻‍💻 MY 🧑🏻‍💻
+[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@pkb0711/posts)   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.pkb9239@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:one.pkb8839@naver.com)
 
 ### 😊 T o d a y !
 
