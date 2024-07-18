@@ -17,6 +17,25 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=400&section=header&text=Welcome&fontSize=90&animation=twinkling)
 <div align=center>
+<div> 
+<h3>Kyungbin Park</h3>
+<div>🧑🏻‍💻 Frontend Developer</div>
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/pkb9239?pet-id=601629384281388563"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/pkb9239"/>
+</a>
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkb9239&count_bg=%23FF2B89&title_bg=%23FF2B8C&icon=smugmug.svg&icon_color=%23E7E7E7&title=Today&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 ## 🛠️ Tech Stack 🛠️
@@ -44,12 +63,4 @@ Here are some ideas to get you started:
 ## 🧑🏻‍💻 MY 🧑🏻‍💻
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@pkb0711/posts)   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.pkb9239@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:one.pkb8839@naver.com)
 
-### 😊 T o d a y !
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkb9239&count_bg=%23C83D50&title_bg=%23827F78&icon=jenkins.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkb9239&layout=compact&theme=dracula)
-  
-![pkb9239's github stats](https://github-readme-stats.vercel.app/api?username=pkb9239&show_icons=true)
-  </div>
 
