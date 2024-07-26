@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=400&section=header&text=Welcome&fontSize=90&animation=twinkling)
 <div align=center>
 <div> 
-<h3>Kyungbin Park</h3>
-<div>🧑🏻‍💻 Frontend Developer</div>
+<h2>Kyungbin Park</h2>
+<h3>🧑🏻‍💻 Frontend Developer</h3>
 
 
 
