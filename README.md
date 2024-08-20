@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=400&section=header&text=Welcome&fontSize=90&animation=twinkling)
+
 <div align=center>
 <div> 
 <h2>Kyungbin Park</h2>
