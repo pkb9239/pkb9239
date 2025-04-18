@@ -37,29 +37,5 @@ Here are some ideas to get you started:
     
 
 
-## 🛠️ Tech Stack 🛠️
-#### My Primary Stack
-<img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=reactquery&logoColor=white">
-<br />
-<img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-<br />
-
-#### Experienced
-<img src="https://img.shields.io/badge/Zustand-e26429?style=flat&logo=zustand&logoColor=white">
-<img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=reactquery&logoColor=white">
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
-<br />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
-<img src="https://img.shields.io/badge/Emotion-D26AC2?&style=flat&logo=emotion&logoColor=white">
-<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
-
-## 🧑🏻‍💻 MY 🧑🏻‍💻
-[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@pkb0711/posts)   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.pkb9239@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:one.pkb8839@naver.com)
 
 
