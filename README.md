@@ -27,8 +27,12 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/lines/pkb9239?pet-id=1" width="1000" height="120"/>
 </a>
   
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/pkb9239"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pkb9239&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/pkb9239"
+  width="600"
+  height="300"
+/>
 </a>
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpkb9239&count_bg=%23FF2B89&title_bg=%23FF2B8C&icon=smugmug.svg&icon_color=%23E7E7E7&title=Today&edge_flat=true)](https://hits.seeyoufarm.com)
